@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_news_latter_forms",
+  "info": {
+    "displayName": "newsLatterForm"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": true
+    },
+    "subheading": {
+      "type": "richtext"
+    }
+  }
+}
